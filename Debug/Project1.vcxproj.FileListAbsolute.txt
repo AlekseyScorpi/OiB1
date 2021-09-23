@@ -1,0 +1,4 @@
+C:\Users\timos\Desktop\Учёба ВУЗ\ОиБ\Проги лаб\Project1\Debug\Project1.vcxprojAssemblyReference.cache
+C:\Users\timos\Desktop\Учёба ВУЗ\ОиБ\Проги лаб\Project1\Debug\Project1.exe
+C:\Users\timos\Desktop\Учёба ВУЗ\ОиБ\Проги лаб\Project1\Debug\Project1.MyForm.resources
+C:\Users\timos\Desktop\Учёба ВУЗ\ОиБ\Проги лаб\Project1\Debug\Project1.vcxproj.GenerateResource.cache
