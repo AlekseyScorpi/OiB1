@@ -8,7 +8,7 @@ namespace Project1 {
 	using namespace System::Data;
 	using namespace System::Drawing;
 
-	Char specialSymbols[10] = { '!', '"', '#', '$', '%', '&', '\'', '\(', ')', '*' };
+	Char specialSymbols[10] = { '!', '"', '#', '$', '%', '&', '\'', '(', ')', '*' };
 	/// <summary>
 	/// Сводка для MyForm
 	/// </summary>
